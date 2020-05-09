@@ -1,0 +1,275 @@
+
+.main {
+    background-color: blue;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.mango {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 50px;
+    top: 15px;
+}
+.para {
+    width: 600px;
+    color: white;
+    position: relative;
+    top: 5px;
+
+}
+.position {
+    width: 300px;
+    position: relative;
+    right: 50px;
+    top: 30px;
+}
+.one {
+    color: green;
+    border: 2px solid green;
+}
+.main2 {
+    height: 80px;
+}
+.pic {
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+}
+.home {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;    
+}
+.bio {
+    bottom: 30px;
+    word-spacing: 10px;
+    float: right;
+    position: relative;
+    padding:10px 40px 10px 10px;    
+}
+.lite {
+    width: 100%;
+    height: 400px;
+}
+.headline {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    width: 80%;
+    position: relative;
+    right: 10%;
+    left: 10%;
+}
+
+.center {
+    text-align: center;
+}
+.logo {
+    height: 70px;
+    position: relative;
+    right: 50%;
+    left: 48%;
+}
+.paragraph {
+    position: relative;
+    right: 10%;
+    left: 10%;
+    text-align: justify;
+    justify-content: space-around;
+    width: 80%;
+}
+.num {
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+.white {
+    color: white;
+}
+.green {
+    color: green;
+}
+.daily {
+    width: 150px;
+    text-align: center;
+}
+.online {
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-around;
+    padding-top: 70px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    -moz-box-shadow: 0 0 10px lightgrey;
+    -webkit-box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px lightgrey;}
+}
+.blue {
+    color: blue;
+
+}
+.mission {
+    margin-left: 70px;
+    margin-bottom: 70px;
+    justify-content: space-around;
+}
+.class {
+    width: 70%;
+}
+.five {
+    width: 40%;
+    height: 50px;
+    float: left;
+    display: inline-flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    -moz-box-shadow: 0 0 10px lightgrey;
+    -webkit-box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px lightgrey;
+}
+.six {
+    width: 40%;
+    height: 50px;
+    float: left;
+    display: inline-flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    -moz-box-shadow: 0 0 10px lightgrey;
+    -webkit-box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px lightgrey
+}
+.seven {
+    width: 40%;
+    height: 50px;
+    float: left;
+    display: inline-flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -moz-box-shadow: 0 0 10px lightgrey;
+    -webkit-box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px lightgrey;
+}
+.eight {
+    width: 40%;
+    height: 50px;
+    display: inline-flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    -moz-box-shadow: 0 0 10px lightgrey;
+    -webkit-box-shadow: 0 0 10px lightgrey;
+    box-shadow: 0 0 10px lightgrey;
+}
+.miss {
+    font-size: 25px;
+    margin-top: -220px;
+    margin-left: 820px;
+}
+.slide {
+    color: grey;
+    margin-left: 850px;
+    margin-top: 25px;
+    line-height: 25px;
+    font-size: 15px;
+}
+.bar{
+    margin-left:-25px;
+}
+.mouse {
+    text-align: center; 
+    margin-top: 25px;
+    margin-top: 55px;
+    font-size: 30px;
+}
+.round {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 600px;
+}
+.image {
+    height: 165px; 
+    width: 220px;
+    padding-left: 20px;
+}
+.square {
+    border: 2px solid white;
+    -moz-box-shadow: 0 0 5px lightgrey;
+    -webkit-box-shadow: 0 0 5px lightgrey;
+    box-shadow: 0 0 5px lightgrey;
+}
+.footer {
+    background-color: darkslategrey;
+    height: 300px;
+}
+.off {
+    font-size:15px;
+    margin-top: 50px;
+    margin-left: 100px;
+    line-height:25px;
+    padding-top: 30px;
+    color: ghostwhite;
+}
+.small {
+    height: 20px;
+    width: 20px;
+    color: green;
+}
+.comf {
+    font-size:15px;
+    margin-left: 100px;
+    line-height:25px;
+    color: ghostwhite;
+}
+.links {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -230px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline green solid;
+}
+.connect {
+    position: absolute;
+    margin-left: 850px;
+    margin-top: -230px;
+    color: white;
+    font-size: 12px;
+}
+.merge {
+    background-color: blue;
+    margin-top: -20px;
+    height: 50px;
+}
+.start {
+    font-size: 12px;
+    margin-left: 60px; 
+    margin-top: 20px;
+    padding-top: 15px;
+    color: white;
+}.end {
+    font-size: 12px;
+    text-align: end;
+    margin-top: -30px;
+    margin-right: 60px;
+    padding-top: 10px;
+    color: white;
+}
